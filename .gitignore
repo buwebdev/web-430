@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# JavaScript build outputs
+dist/
+build/
+*.min.js
+*.bundle.js
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# YAML temporary files
+*.yaml.bak
+*.yml.bak
+*.yaml~
+*.yml~
+
+# Logs
+logs/
+*.log
+
+# Coverage and test outputs
+coverage/
+.nyc_output/
